@@ -1,0 +1,25 @@
+{
+  "name": "wimpy-api",
+  "version": "1.0.0",
+  "description": "wimpy safaris backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bolloAggrey/wimpy-api.git"
+  },
+  "keywords": [
+    "api",
+    "backend",
+    "wimpy",
+    "safaris"
+  ],
+  "author": "bollo_aggrey bolloo18@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bolloAggrey/wimpy-api/issues"
+  },
+  "homepage": "https://github.com/bolloAggrey/wimpy-api#readme"
+}
