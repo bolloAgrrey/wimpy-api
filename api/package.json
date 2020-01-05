@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bolloAggrey/wimpy-api.git"
+    "url": "git+https://github.com/bolloAgrrey/wimpy-api.git"
   },
   "keywords": [
     "api",
@@ -19,9 +19,9 @@
   "author": "bollo_aggrey bolloo18@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bolloAggrey/wimpy-api/issues"
+    "url": "https://github.com/bolloAgrrey/wimpy-api/issues"
   },
-  "homepage": "https://github.com/bolloAggrey/wimpy-api#readme",
+  "homepage": "https://github.com/bolloAgrrey/wimpy-api#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
